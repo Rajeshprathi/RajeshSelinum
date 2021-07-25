@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"> 
+<suite name="Default suite"> 
+  <test verbose="5" name="Default test">  
+   <classes>    
+   <class name="com.adactin.testcases.TC01"/> 
+   <class name="com.adactin.testcases.TC02"/> 
+   <class name="com.adactin.testcases.TC03"/>
+   <class name="com.adactin.testcases.TC04"/>
+   <class name="com.adactin.testcases.TC05"/>
+  </classes> 
+  </test> <!-- Default test --> 
+</suite> <!-- Default suite --> 
