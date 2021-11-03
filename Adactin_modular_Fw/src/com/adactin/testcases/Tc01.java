@@ -5,7 +5,7 @@ public class Tc01 {
 		General obj =new General();
 		obj.openApplication();
 		obj.login();
-		obj.logout();		
+		//obj.logout();		
 }
 
 }
